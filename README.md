@@ -7,3 +7,5 @@ New text via web browser!
 Agdded text locally
 
 Added text for newbranch
+
+Resolve a conflict
